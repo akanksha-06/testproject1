@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @akanksha-06
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#this is a heading
+##this is a subheading
+**this is bold**
+this is to write points
+- my first int
+- my second point
+  -my subpoint
+  -another subpoint
+- my third point
+```
+second part
+```
+--lets see the output
 
 <!---
 akanksha-06/akanksha-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
