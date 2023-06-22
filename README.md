@@ -4,8 +4,8 @@
 this is to write points
 - my first int
 - my second point
-  -my subpoint
-  -another subpoint
+  - my subpoint
+  - another subpoint
 - my third point
 ```
 second part
