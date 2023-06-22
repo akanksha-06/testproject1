@@ -1,5 +1,5 @@
-#this is a heading
-##this is a subheading
+# this is a heading
+## this is a subheading
 **this is bold**
 this is to write points
 - my first int
